@@ -9,3 +9,5 @@ The file as well as the dir was copied using 'git clone https://github.com/marek
 
 I shall now try to synch it locally and then on GitHub via the terminal
 
+It worked, lets do this again :) using 'git push'
+UNLIMITED POWAAAH
