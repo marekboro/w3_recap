@@ -11,3 +11,8 @@ I shall now try to synch it locally and then on GitHub via the terminal
 
 It worked, lets do this again :) using 'git push'
 UNLIMITED POWAAAH
+
+Ok so this will be the 3rd time today that I do this and will go back to Python and HTML/CSS recapping for later. 
+
+
+
